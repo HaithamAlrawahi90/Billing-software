@@ -1,3 +1,7 @@
 read itmes from 1 to n
 sum = sum+item
 print "the amount  is" sum
+if the sum is greater than 500 then 10% discount 
+else 
+give 5%
+discount
